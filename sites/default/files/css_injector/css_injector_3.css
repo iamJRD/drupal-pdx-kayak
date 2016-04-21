@@ -1,3 +1,11 @@
 .navbar {
     background-color: #000;
 }
+
+ul.list-inline {
+    float: right;
+}
+
+tr th.views-field {
+    text-align: center;
+}
