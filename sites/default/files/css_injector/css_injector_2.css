@@ -11,3 +11,7 @@ div.view-content {
 h2.block-title {
     text-align: center;
 }
+
+div.highlighted.jumbotron {
+    background: transparent;
+}

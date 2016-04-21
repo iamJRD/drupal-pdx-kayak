@@ -9,3 +9,17 @@ ul.list-inline {
 tr th.views-field {
     text-align: center;
 }
+.footer {
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+
+body { 
+  background: url("http://jacksonkayak.com/wp-content/uploads/2012/10/Rafa-big-banana.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+

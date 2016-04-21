@@ -1,0 +1,6 @@
+.col-sm-9 {
+    background: rgba(0, 0, 0, 0.5);  
+    color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
