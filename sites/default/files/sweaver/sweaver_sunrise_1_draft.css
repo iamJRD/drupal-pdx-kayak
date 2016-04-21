@@ -1,0 +1,16 @@
+body #header-banner-wrapper {
+  background-image: url(/sites/default/files/sweaver/sweaver_image_17.jpg);
+  margin-bottom: 0px;
+  margin-top: 0px;
+  height: 1232px;
+}
+
+#main-navigation-inside nav {
+  margin-top: 0px;
+}
+
+a img {
+  margin-bottom: 219px;
+  margin-top: 78px;
+}
+
